@@ -4,5 +4,5 @@ The C++ program is for simulation before writing a verilog code. The goal is to 
 
 
 
-- Syllubus of the course:
+- Syllabus of the course:
 'DCIC Syllabus.pdf'

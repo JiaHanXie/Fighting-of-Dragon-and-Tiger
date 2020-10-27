@@ -1,0 +1,10 @@
+//////////////////////////////////////////////////////
+//JHXie Combinational World                         //
+//////////////////////////////////////////////////////
+#include "MainHeader.hpp"
+int main(){
+	Game::init();
+	Game::cycle();
+	Game::generate_pattern();
+	return 0;
+}

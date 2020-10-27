@@ -1,0 +1,11 @@
+//////////////////////////////////////////////////////
+//JHXie Combinational World                         //
+//////////////////////////////////////////////////////
+#include "MainHeader.hpp"
+int main(){
+	Game::init();
+	Game::set();
+	Game::execute();
+	Game::exit();
+	return 0;
+}
